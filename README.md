@@ -39,3 +39,16 @@ Si revisas el historial de commits en GitHub verás el commit con el mensaje: "m
 - Algunos archivos bin/obj del frontend (WPF) pueden haberse incluido accidentalmente si ya estaban presentes antes de añadir el `.gitignore`. Recomiendo revisar y limpiar esos artefactos y, si procede, hacer un nuevo commit que los elimine del repo.
 
 # GetechnologiesMx
+
+## Evidencias
+
+A continuación se incluyen capturas que muestran la aplicación en funcionamiento.
+
+![Evidencia 1](Evidencias/1.jpg)
+
+![Evidencia 2](Evidencias/2.jpg)
+
+![Evidencia 3](Evidencias/3.jpg)
+
+![Evidencia 4](Evidencias/4.jpg)
+
