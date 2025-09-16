@@ -30,9 +30,7 @@ Al preparar este repo para que contenga ambos proyectos en una única estructura
   - `Facturacion.WPF.Client` → `frontend/Facturacion.WPF.Client`
 - Creé una solución raíz `GetechnologiesMx.sln` y añadí ambos proyectos para facilitar la apertura y el build desde Visual Studio.
 - Añadí un `.gitignore` orientado a Visual Studio/.NET y limpié los artefactos más notorios (`bin/`, `obj/`) antes del commit cuando fue posible.
-- Hice commit y push de los cambios a la rama `monorepo-structure` en el remoto `origin`.
 
-Si revisas el historial de commits en GitHub verás el commit con el mensaje: "monorepo: agregar backend y frontend en estructura monorepo".
 
 ### Notas y recomendaciones
 
