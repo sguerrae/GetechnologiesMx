@@ -37,8 +37,5 @@ Si revisas el historial de commits en GitHub verás el commit con el mensaje: "m
 ### Notas y recomendaciones
 
 - Algunos archivos bin/obj del frontend (WPF) pueden haberse incluido accidentalmente si ya estaban presentes antes de añadir el `.gitignore`. Recomiendo revisar y limpiar esos artefactos y, si procede, hacer un nuevo commit que los elimine del repo.
-- Si prefieres que en lugar de copiar los proyectos los mueva (eliminar las copias locales), puedo ayudarte a hacerlo y a sincronizar el estado local con el remoto.
-- Si quieres, abro el Pull Request en GitHub o preparo la rama para revisión y merge.
 
-Si necesitas que haga alguno de los pasos siguientes (limpiar bin/obj, abrir PR, mover en lugar de copiar, ajustar `launchSettings` o crear scripts de build), dime cuál y lo hago.
 # GetechnologiesMx
