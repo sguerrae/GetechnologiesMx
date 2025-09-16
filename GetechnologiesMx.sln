@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{F154111A-8F60-42CB-87AA-3C2657E45DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturacion.API", "backend\Facturacion.API\Facturacion.API.csproj", "{DF57E223-5A36-457F-9849-8E8A36E4556A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frontend", "frontend", "{D6218442-D2B7-4136-B5FB-906021612256}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Facturacion.WPF.Client", "Facturacion.WPF.Client", "{EA505FCF-794E-45E7-810D-F425B90A8434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturacion.WPF.Client", "frontend\Facturacion.WPF.Client\Facturacion.WPF.Client\Facturacion.WPF.Client.csproj", "{6E07DCB0-CC11-4FE3-B3C8-A54586C479FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF57E223-5A36-457F-9849-8E8A36E4556A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF57E223-5A36-457F-9849-8E8A36E4556A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF57E223-5A36-457F-9849-8E8A36E4556A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF57E223-5A36-457F-9849-8E8A36E4556A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E07DCB0-CC11-4FE3-B3C8-A54586C479FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E07DCB0-CC11-4FE3-B3C8-A54586C479FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E07DCB0-CC11-4FE3-B3C8-A54586C479FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E07DCB0-CC11-4FE3-B3C8-A54586C479FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DF57E223-5A36-457F-9849-8E8A36E4556A} = {F154111A-8F60-42CB-87AA-3C2657E45DB8}
+		{EA505FCF-794E-45E7-810D-F425B90A8434} = {D6218442-D2B7-4136-B5FB-906021612256}
+		{6E07DCB0-CC11-4FE3-B3C8-A54586C479FE} = {EA505FCF-794E-45E7-810D-F425B90A8434}
+	EndGlobalSection
+EndGlobal

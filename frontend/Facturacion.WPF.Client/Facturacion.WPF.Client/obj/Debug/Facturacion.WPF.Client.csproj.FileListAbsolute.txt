@@ -1,0 +1,6 @@
+C:\Saas\Test_Tecnico_1\Facturacion.WPF.Client\Facturacion.WPF.Client\obj\Debug\Facturacion.WPF.Client.csprojAssemblyReference.cache
+C:\Saas\Test_Tecnico_1\Facturacion.WPF.Client\Facturacion.WPF.Client\obj\Debug\MainWindow.g.cs
+C:\Saas\Test_Tecnico_1\Facturacion.WPF.Client\Facturacion.WPF.Client\obj\Debug\App.g.cs
+C:\Saas\Test_Tecnico_1\Facturacion.WPF.Client\Facturacion.WPF.Client\obj\Debug\Facturacion.WPF.Client_MarkupCompile.cache
+C:\Saas\Test_Tecnico_1\Facturacion.WPF.Client\Facturacion.WPF.Client\obj\Debug\Facturacion.WPF.Client_MarkupCompile.lref
+C:\Saas\Test_Tecnico_1\Facturacion.WPF.Client\Facturacion.WPF.Client\obj\Debug\Facturacion.WPF.Client.csproj.AssemblyReference.cache
